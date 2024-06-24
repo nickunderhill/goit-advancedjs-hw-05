@@ -1,0 +1,18 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.5"
+  },
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "Mykola Podopryhora",
+  "license": "ISC",
+  "description": ""
+}
